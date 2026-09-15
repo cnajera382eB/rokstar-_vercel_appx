@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta> holamundo
+        <title></title>
+        <style>
+            body{
+                background-color: black;
+                color: blue;
+            }
+        </style>
+
+    </head>
+    <body>
+        
+        <h1>
+
+
+        </h1>
+    </body>
+</html>
