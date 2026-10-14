@@ -19,6 +19,12 @@ body {
    ENCABEZADO
    ===================== */
 
+
+.my_parag{
+    position: sticky;
+    top: 30px
+}
+
 header {
     background-color: black;
     color: green;
